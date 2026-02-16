@@ -1,0 +1,11 @@
+ID_Linha;Operadora;Tipo_Servico;Valor_Contratado;Valor_Faturado;Data_Fatura;Status_Linha
+(67) 99122-0001;Vivo;Voz + Dados;R$ 89,90;R$ 89,90;01/01/2026;Ativa
+(67) 99122-0002;Vivo;Voz + Dados;R$ 89,90;R$ 124,50;01/01/2026;Ativa
+(67) 98144-1010;Tim;Link Dedicado;R$ 1.200,00;R$ 1.200,00;01/01/2026;Ativa
+(67) 98144-1011;Tim;Link Dedicado;R$ 1.200,00;R$ 1.450,00;01/01/2026;Ativa
+(11) 92000-5555;Claro;Móvel Empresarial;R$ 45,00;R$ 45,00;01/01/2026;Ativa
+(11) 92000-6666;Claro;Móvel Empresarial;R$ 45,00;R$ 85,90;01/01/2026;Suspensa
+(67) 3321-0000;Embratel;Fixo;R$ 150,00;R$ 150,00;01/01/2026;Ativa
+(67) 3321-1111;Embratel;Fixo;R$ 150,00;R$ 210,00;01/01/2026;Cancelada
+(67) 99122-0001;Vivo;Voz + Dados;R$ 89,90;R$ 89,90;01/02/2026;Ativa
+(67) 99122-0002;Vivo;Voz + Dados;R$ 89,90;R$ 135,00;01/02/2026;Ativa
